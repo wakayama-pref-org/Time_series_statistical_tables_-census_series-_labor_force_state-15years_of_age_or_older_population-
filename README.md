@@ -1,4 +1,4 @@
-# Time_series_statistical_tables_-census_series-_labor_force_state-15years_of_age_or_older_population-
+# time_series_statistical_tables_-census_series-_labor_force_state-15years_of_age_or_older_population-
 　【和歌山県　国勢調査　時系列統計表です。】
 ◆国勢調査とは
  調査時に日本に居住するすべての人（外国人を含む。）を対象に、人口、世帯に関し、男女、年齢、国籍、就業状態、仕事の種類、世帯員の数などを調べる（センサス）国の最も基本的、かつ、規模の大きな調査（５年ごと）です。　
